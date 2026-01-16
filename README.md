@@ -50,5 +50,5 @@ Estudante de **Engenharia de Computação na UERJ**com experiência em **program
 
 ---
 <p align="center">
-  <i>"Proativo, criativo e focado em aprendizado contínuo."</i> [cite: 7]
+  <i>"Proativo, criativo e focado em aprendizado contínuo."</i>
 </p>
