@@ -27,11 +27,11 @@ Estudante de **Engenharia de Computação na UERJ**com experiência em **program
 ---
 
 ### 📂 Experiências e Projetos
-- **Iaguara Robótica:** Ex-Diretor de Marketing focado em gestão estratégica.
+- **Iaguara Robótica:** Ex-Diretor de Marketing.
 - **Serra Jr Engenharia:** Experiência em marketing e desenvolvimento de soluções digitais.
-- **Freelancer Web:** +4 anos desenvolvendo sites responsivos com HTML/CSS/JS e WordPress.
+- **Freelancer Web:** desenvolvendo sites responsivos com HTML/CSS/JS e WordPress.
 - **[Meu Portfólio](https://joaop1mentel.github.io/Meu-Portfolio/):** Desenvolvido com Tailwind CSS e JavaScript.
-- **Sistema de Monitoramento:** Automação com Arduino para coleta de dados e análise de Ph da água.
+- **Sistemas de Monitoramento:** Automação com Arduino para coleta de dados e análise de Ph da água, também sistema para verificar temperatura e nível de água em um aquário com Blynk IOT.
 
 ---
 
