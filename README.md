@@ -28,7 +28,6 @@
 ---
 
 ### 📂 Experiências em Destaque
-- [cite_start]**GigaLink:** Apoio na criação de dashboards e análise comercial[cite: 11, 12].
 - [cite_start]**Pensamento Negro Podcast:** Editor audiovisual e criação de conteúdo para redes sociais[cite: 15, 16].
 - [cite_start]**Iaguara Robótica:** Diretor de Marketing, responsável por gestão estratégica e comunicação[cite: 24, 25].
 - [cite_start]**Serra Jr Engenharia:** Desenvolvimento de soluções digitais e suporte em tecnologia[cite: 19, 20].
