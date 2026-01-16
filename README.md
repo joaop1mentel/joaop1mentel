@@ -1,14 +1,13 @@
 # Olá, eu sou o João Marcelo Pimentel 👋
 
-[cite_start]Estudante de **Engenharia de Computação na UERJ** [cite: 6, 36] [cite_start]com experiência em **programação, análise de dados e automação**[cite: 6]. [cite_start]Atualmente, atuo na área de **Análise Comercial na GigaLink**[cite: 9, 11].
+Estudante de **Engenharia de Computação na UERJ**com experiência em **programação, análise de dados e automação**. Atualmente, atuo na área de ****.
 
 ---
 
 ### 🚀 Sobre Mim
-- [cite_start]🎓 Graduando em Engenharia de Computação pela **UERJ**[cite: 36].
-- [cite_start]💼 **Análise Comercial na GigaLink**: Apoio na criação de dashboards[cite: 11, 12].
-- [cite_start]💡 Interesse em **Engenharia de Dados** e pesquisa tecnológica[cite: 7].
-- [cite_start]🌍 Inglês nível **B2 - Cambridge**[cite: 45].
+- 🎓 Graduando em Engenharia de Computação pela **UERJ**.
+- 💡 Interesse em **Engenharia de Dados** e pesquisa tecnológica.
+- 🌍 Inglês nível **B2 - Cambridge**.
 
 ---
 
@@ -32,7 +31,7 @@
 - **Serra Jr Engenharia:** Experiência em marketing e desenvolvimento de soluções digitais.
 - **Freelancer Web:** +4 anos desenvolvendo sites responsivos com HTML/CSS/JS e WordPress.
 - **[Meu Portfólio](https://joaop1mentel.github.io/Meu-Portfolio/):** Desenvolvido com Tailwind CSS e JavaScript.
-- [cite_start]**Sistema de Monitoramento:** Automação com Arduino para coleta de dados e análise de Ph da água.
+- **Sistema de Monitoramento:** Automação com Arduino para coleta de dados e análise de Ph da água.
 
 ---
 
