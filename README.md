@@ -1,6 +1,6 @@
 # Olá, eu sou o João Marcelo Pimentel 👋
 
-Estudante de **Engenharia de Computação na UERJ**com experiência em **programação, análise de dados e automação**. Atualmente, atuo na área de ****.
+Estudante de **Engenharia de Computação na UERJ **com experiência em **programação, análise de dados e automação**.
 
 ---
 
