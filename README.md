@@ -6,7 +6,7 @@ Engenheiro de Automação e Dados | Orquestrando Sistemas, APIs e IA corporativa
 
 ### 🚀 Sobre Mim
 - 🎓 Graduando em Engenharia de Computação pela **UERJ** (Previsão: 2029).
-- ⚙️ Atuando com **Engenharia de Automação**, focado em arquitetura de microsserviços, integração de sistemas e construção de pipelines de dados resilientes.
+- ⚙️ Atuando com **Engenharia de Automação** e **Analises de Dados**, focado em arquitetura de microsserviços, integração de sistemas e construção de pipelines de dados resilientes.
 - 🤖 Especialista em orquestrar fluxos complexos e plugar Inteligência Artificial (LLMs) para eliminar tarefas operacionais críticas.
 - 🌍 Inglês nível **B2 - Cambridge**.
 
