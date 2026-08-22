@@ -42,6 +42,10 @@ Engenheiro de Automação e Dados | Orquestrando Sistemas, APIs e IA corporativa
 - **ETL Corporativo Automático:** Robôs em Python (Selenium headless) que realizam scraping assíncrono de relatórios financeiros, normalizam os dados e persistem via \textit{upsert} em banco relacional.
 - **Agregador Automatizado de Eventos (Projeto Pessoal):** Pipeline autônomo (n8n + CRON + MySQL) que extrai, sanitiza e enriquece dados de eventos espalhados pela web em todo o Brasil.
 - **Widget Desktop de KPIs:** Aplicação *always-on-top* desenvolvida em Electron puro, consumindo indicadores de negócio via comunicação isolada (IPC) segura.
+- **Criaçao de SKILLS e AGENTS para claude code**
+- **Projetos desenvolvidos com foco em **RPA (Robotic Process Automation)** para auxiliar em tarefas repetitivas e burocráticas, especialmente em cenários que **não possuem APIs** ou qualquer outro tipo de integração externa nativa** 
+
+O objetivo do robô é simular interações humanas em sistemas legados ou interfaces fechadas, garantindo ganho de produtividade e eliminando erros manuais.
 
 ---
 
