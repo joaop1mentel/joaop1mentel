@@ -20,11 +20,13 @@ Engenheiro de Automação e Dados | Orquestrando Sistemas, APIs e IA corporativa
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+
 ### 🧠 Inteligência Artificial & LLMs
 ![Claude](https://img.shields.io/badge/Claude-f7d9c4?style=for-the-badge&logo=anthropic&logoColor=black)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-f5a623?style=for-the-badge&logo=groq&logoColor=white)
 ![Qwen](https://img.shields.io/badge/Qwen-007bff?style=for-the-badge&logo=alibabacloud&logoColor=white)
+
 **Infraestrutura & Dados:**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2300758f.svg?style=for-the-badge&logo=mysql&logoColor=white)
